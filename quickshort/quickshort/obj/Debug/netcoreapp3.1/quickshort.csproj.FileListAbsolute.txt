@@ -1,0 +1,13 @@
+C:\Users\Rifa\source\repos\quickshort\quickshort\obj\Debug\netcoreapp3.1\quickshort.csprojAssemblyReference.cache
+C:\Users\Rifa\source\repos\quickshort\quickshort\obj\Debug\netcoreapp3.1\quickshort.AssemblyInfoInputs.cache
+C:\Users\Rifa\source\repos\quickshort\quickshort\obj\Debug\netcoreapp3.1\quickshort.AssemblyInfo.cs
+C:\Users\Rifa\source\repos\quickshort\quickshort\obj\Debug\netcoreapp3.1\quickshort.csproj.CoreCompileInputs.cache
+C:\Users\Rifa\source\repos\quickshort\quickshort\bin\Debug\netcoreapp3.1\quickshort.exe
+C:\Users\Rifa\source\repos\quickshort\quickshort\bin\Debug\netcoreapp3.1\quickshort.deps.json
+C:\Users\Rifa\source\repos\quickshort\quickshort\bin\Debug\netcoreapp3.1\quickshort.runtimeconfig.json
+C:\Users\Rifa\source\repos\quickshort\quickshort\bin\Debug\netcoreapp3.1\quickshort.runtimeconfig.dev.json
+C:\Users\Rifa\source\repos\quickshort\quickshort\bin\Debug\netcoreapp3.1\quickshort.dll
+C:\Users\Rifa\source\repos\quickshort\quickshort\bin\Debug\netcoreapp3.1\quickshort.pdb
+C:\Users\Rifa\source\repos\quickshort\quickshort\obj\Debug\netcoreapp3.1\quickshort.dll
+C:\Users\Rifa\source\repos\quickshort\quickshort\obj\Debug\netcoreapp3.1\quickshort.pdb
+C:\Users\Rifa\source\repos\quickshort\quickshort\obj\Debug\netcoreapp3.1\quickshort.genruntimeconfig.cache
